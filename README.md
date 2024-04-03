@@ -16,6 +16,10 @@ We first partition the whole dataset into several sub-regions, wherein each regi
 
 
 ## Visualization
+### Static points
+![eyemotion](asset/eye_motion.png)
+
+### Free points
 ![visulization](asset/visualization.gif)
 
 ## Getting Started
