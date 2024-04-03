@@ -20,7 +20,20 @@ We first partition the whole dataset into several sub-regions, wherein each regi
 
 ## Getting Started
 
+```
+pip install+git https://github.com/jdjdli/Denoise_distill_EF_gazetracker.git
+```
+
 
 
 
 ## Training
+4 GPUs
+```
+CUDA_VISIBLE_DEVICES=0,1,2,3 torchrun --nproc_per_node=4 --master_port 8849 train_multiGPU.py
+```
+
+
+## Citing
+```
+```
