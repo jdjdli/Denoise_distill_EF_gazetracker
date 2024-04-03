@@ -20,8 +20,16 @@ We first partition the whole dataset into several sub-regions, wherein each regi
 
 ## Getting Started
 
+Clone the repository locally:
+
 ```
 pip install+git https://github.com/jdjdli/Denoise_distill_EF_gazetracker.git
+```
+
+Create and activate a conda environment and install the required packages:
+
+```
+
 ```
 
 
