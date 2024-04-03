@@ -6,5 +6,8 @@ The source code of the paper "Denoising Distillation Makes Event-Frame Transform
 [Jiading Li](https://alexander-kirillov.github.io/), [Zhiyu Zhu](https://scholars.cityu.edu.hk/en/persons/zhiyu-zhu(5432dc82-cfd7-473d-afbb-fa6d4cf25331).html), [Jinhui Hou](https://scholars.cityu.edu.hk/en/persons/jinhui-hou(4a1e6c89-e054-420a-bb67-fce3c89ee7eb).html), [Junhui Hou](https://scholars.cityu.edu.hk/en/persons/junhui-hou(1e5e437a-b84d-471d-af08-5f13a2d0b1c3).html), [Jinjian Wu](https://web.xidian.edu.cn/wjj/)
 
 
-![SAM design](assets/model_diagram.png?raw=true)
+![Overview](asset/overview.png?raw=true)
 
+We delve into the potential of utilizing pre-trained vision Transformers for cross-modal eye tracking, building upon their proven competence in capturing complex spatial-temporal relationships within multi-modal event-frame dataset. Our framework emphasizes the modeling of gaze shifts from a baseline calibration state, serving as an anchor, to the dynamically acquired state captured during actual use. Specificly, our approach ingests input in the form of a frame coupled with corresponding event data, meticulously aligned to highlight the visible region. The system is designed to scrutinize the discernible ocular zones, subsequently inferring the directional gaze vector as the output. Beyond the confines of static frame-based gaze estimation, the study of dynamic ocular movements constitutes an additional research trajectory within computer vision.
+
+![Framework](asset/twostage.png?raw=true)
