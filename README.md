@@ -20,7 +20,7 @@ We first partition the whole dataset into several sub-regions, wherein each regi
 ![eyemotion](asset/eye_motion.png)
 
 ### Free points
-![visulization](asset/visualization.gif)
+![visulization](asset/visulization.gif)
 
 ## Getting Started
 
