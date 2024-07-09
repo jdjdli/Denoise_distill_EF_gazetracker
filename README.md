@@ -26,7 +26,7 @@ We propose a novel gaze estimation transformer framework that revolutionizes gaz
 
 ## Methodology
 
-![Framework](asset/twostage.png?raw=true)
+![Framework](asset/framework.png?raw=true)
 
 Gaze tracking aims to determine the gaze location, given the measured state. However, the high speed of eye movement and the subtle pattern of the eyeball make it hard to derive accurate predictions. Inspired by the high-temporal resolution and low-latency characteristics of event-based vision, we propose to utilize frames together with event data for building an accurate near-eye gaze estimation pipeline.
 
@@ -38,7 +38,7 @@ Subsequently, to further boost the capacity for accurate gaze prediction across 
 ## Visualization
 ### Static points
 <div align="center">
-  <img src="asset/eye_motion.png" width="80%" higth="80%">
+  <img src="asset/motions.png" width="80%" higth="80%">
 </div>
 
 
