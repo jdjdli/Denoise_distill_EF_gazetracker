@@ -1,7 +1,7 @@
 
 
 <div align="center">
-  <h1 align="center"><strong>Denoising Distillation Makes Event-Frame Transformers as Accurate Gaze Trackers</strong></h1>
+  <h1 align="center"><strong>Modeling State Shifting via Local-Global Distillation for Event-Frame Gaze Tracking</strong></h1>
     <p align="center">
     <a>Jiading Li</a><sup>1</sup>&nbsp;&nbsp;
     <a>Zhiyu Zhu</a><sup>1</sup>&nbsp;&nbsp;
@@ -14,7 +14,7 @@
 </div>
 
 <div align="center">
-  <h3 align="center">The source code of the paper "Denoising Distillation Makes Event-Frame Transformers as Accurate Gaze Trackers"</h3>
+  <h3 align="center">The source code of the paper "Modeling State Shifting via Local-Global Distillation for Event-Frame Gaze Tracking"</h3>
 </div>
 
 ## Overview
