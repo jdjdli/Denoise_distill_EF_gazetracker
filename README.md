@@ -56,11 +56,7 @@ Clone the repository locally:
 pip install+git https://github.com/jdjdli/Denoise_distill_EF_gazetracker.git
 ```
 
-Create and activate a conda environment and install the required packages:
 
-```
-
-```
 
 
 
