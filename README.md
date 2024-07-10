@@ -41,9 +41,9 @@ Subsequently, to further boost the capacity for accurate gaze prediction across 
 
 
 ### Free points
-<div align="center">
-  ![Freepoints](asset/visulization.gif?raw=true)
-</div>
+<p align="center">
+  <img src="asset/visulization.gif" alt="Freepoints">
+</p>
 
 
 ## Getting Started
