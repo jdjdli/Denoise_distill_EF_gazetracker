@@ -72,4 +72,13 @@ CUDA_VISIBLE_DEVICES=0,1,2,3 torchrun --nproc_per_node=4 --master_port 8849 trai
 
 ## Citing
 ```
+@misc{li2024modelingstateshiftinglocalglobal,
+      title={Modeling State Shifting via Local-Global Distillation for Event-Frame Gaze Tracking}, 
+      author={Jiading Li and Zhiyu Zhu and Jinhui Hou and Junhui Hou and Jinjian Wu},
+      year={2024},
+      eprint={2404.00548},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2404.00548}, 
+}
 ```
