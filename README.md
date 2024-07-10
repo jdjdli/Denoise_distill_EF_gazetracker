@@ -37,15 +37,11 @@ Subsequently, to further boost the capacity for accurate gaze prediction across 
 
 ## Visualization
 ### Static points
-<div align="center">
-  <img src="asset/motions.png" width="80%" higth="60%">
-</div>
+![Staticpoints](asset/motions.png?raw=true)
 
 
 ### Free points
-<div align="center">
-  <img src="asset/visulization.gif">
-</div>
+![Freepoints](asset/visulization.gif?raw=true)
 
 
 ## Getting Started
