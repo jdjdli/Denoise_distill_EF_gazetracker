@@ -1,0 +1,22 @@
+
+dataset: LOLv1
+
+#### datasets
+datasets:
+  train:
+    root: image
+    use_shuffle: true
+    n_workers: 1  
+    batch_size: 16
+    use_flip: true
+    use_crop: true
+    GT_size: 96
+
+  val:
+    root: image
+    n_workers: 1
+    use_crop: true
+    batch_size: 1 
+
+
+
