@@ -18,10 +18,8 @@
 </div>
 
 ## Overview
+![Overview](asset/overview.png?raw=true)
 
-<div align="center">
-  <img src="asset/overview.png" width="80%" higth="40%">
-</div>
 
 We propose a novel gaze estimation transformer framework that revolutionizes gaze tracking by leveraging the complementary strengths of event cameras and traditional frame-based imaging. Though synergizing the high temporal resolution of event data with the rich spatial information of frames via a local-global distillation process, our method achieves a new level of performance in gaze tracking. Technically, we reformulate the gaze estimation as the quantification of eye motion transitions from the current state to several prior registered anchor states. Based on this, we initially partition the entire gaze points region into several sub-regions and employ the vision transformers to pre-train a set of models on different sub-regions, yielding several local expert networks with relatively high accuracy for localized gaze estimation. Furthermore, we introduce a local-global latent denoising distillation method to distill knowledge from the set of local expert networks to a global student network to diminish the adverse effects of inherent noise from event data on student network performance. 
 
